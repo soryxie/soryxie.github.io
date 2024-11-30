@@ -46,13 +46,16 @@ Sept. 2021 -- June 2025
 
 ## Publications & Manuscripts
 
+**Morpheus: High-Throughput Framework of Diffusion Model with Distributed Cache Scheduling**
+
+<u>Songrun Xie</u>, Chengsong Zhang, Ping He, Songhao Zhang, [Zhengzhong Tu](https://vztu.github.io/), [Fan Lai](https://www.fanlai.me/).
+
+
 **Evaluating Language Models for Efficient Code Generation**
 
-<!-- [Shengbang Tong](https://tsb0601.github.io/petertongsb/), [Ellis Brown](https://ellisbrown.github.io/), [Penghao Wu](https://penghao-wu.github.io/), [Sanghyun Woo](https://sites.google.com/view/sanghyunwoo/), [Manoj Middepogu](https://www.linkedin.com/in/manoj-middepogu/), [Sai Charitha Akula](https://www.linkedin.com/in/sai-charitha-akula-32574887), [Jihan Yang](https://jihanyang.github.io/), [Shusheng Yang](https://github.com/vealocia), [Adithya Jairam Iyer](https://github.com/adithyaiyer1999), <u>Xichen Pan</u>, [Ziteng Wang](https://www.linkedin.com/in/ziteng-wang-694b8b227/), [Rob Fergus](https://cs.nyu.edu/~fergus/), [Yann LeCun](https://yann.lecun.com/), [Saining Xie](https://www.sainingxie.com/) -->
+[Jiawei Liu](https://jw-liu.xyz/), <u>Songrun Xie</u>, Junhao Wang, [Yuxiang Wei](https://yuxiang.cs.illinois.edu/), [Yifeng Ding](https://yifeng-ding.com/), [Lingming Zhang](https://lingming.cs.illinois.edu/)
 
-Jiawei Liu, <u>Songrun Xie</u>, Junhao Wang, Yuxiang Wei, Yifeng Ding, Lingming Zhang
-
-CoLM 2024 (Oral)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://export.arxiv.org/abs/2408.06450)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/evalplus/evalplus)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://evalplus.github.io/evalperf.html)
+CoLM 2024&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://export.arxiv.org/abs/2408.06450)&nbsp;&nbsp;[:fontawesome-brands-github: Code](https://github.com/evalplus/evalplus)&nbsp;&nbsp;[:fontawesome-solid-link: Project Page](https://evalplus.github.io/evalperf.html)
 
 ## Experience
 
