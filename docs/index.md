@@ -56,23 +56,23 @@ CoLM 2024 (Oral)&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://export.arxiv.org
 
 ## Experience
 
-**ByteDance**![Image title](https://github.com/xichenpan/xichenpan.github.io/assets/48356412/fcfb937d-5ee0-4ab1-b475-6c446a581d24){ align=right style="height:5em; border-radius: 0.5em;"}
+**GAEA Lab, University of Illinois Urbana-Champaign**![Image title](images/uiuc.png){ align=right style="height:5em; border-radius: 0.5em;"}
 
-May. 2023 – Oct. 2023
+Apr. 2024 - Now
+
+Research Intern
+
+**iSE Lab, University of Illinois Urbana-Champaign**![Image title](images/uiuc.png){ align=right style="height:5em; border-radius: 0.5em;"}
+
+Apr. 2023 - Mar. 2024
+
+Research Intern
+
+**ByteDance**![Image title](images/tiktok.png){ align=right style="height:5em; border-radius: 0.5em;"}
+
+May. 2023 - Oct. 2023
 
 Research intern
-
-**John Hopcroft Center for Computer Science, Shanghai Jiao Tong University**![Image title](images/favicon.png){ align=right style="height:5em; border-radius: 0.5em;"}
-
-Apr. 2021 – June 2022
-
-Research Intern
-
-**NSF Center for Big Learning, University of Florida**![Image title](images/uf.png){ align=right style="height:5em; border-radius: 0.5em;"}
-
-July – Sept. 2020
-
-Research Intern
 
 
 <div align="center">
