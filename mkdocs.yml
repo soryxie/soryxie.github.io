@@ -1,5 +1,5 @@
-site_name: "Xichen Pan's Homepage"
-site_author: 'Xichen Pan'
+site_name: "Songrun Xie's Homepage"
+site_author: 'Songrun Xie'
 copyright: '&copy; 2022-2024 Xichen Pan'
 theme:
   name: material
@@ -7,7 +7,7 @@ theme:
   palette:
     primary: white
     accent: orange
-  favicon: images/nyulogo.png
+  # favicon: images/nyulogo.png
   icon:
     logo: material/account-school
   font:
