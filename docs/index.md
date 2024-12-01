@@ -81,7 +81,7 @@ Research intern
 <div align="center">
     <div align="center">
         This Site Already Has 
-            <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?flash321" border="0" alt="Free Hit Counters"></a></small>
+            <small><a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?together" border="0" alt="Free Hit Counters"></a></small>
          Visitors
     </div>
 
